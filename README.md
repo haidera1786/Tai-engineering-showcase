@@ -62,12 +62,11 @@
   - Stripe
   - Apple App Store + Google Play verification
 
-  ## Screenshots / Demo
-  - Demo video: [add link]
-  - Screenshots: [add images]
+  ## Screenshots
+  - Screenshots: Please see Screenshots folder :)
 
   ## Status
   Active development. This repo is intentionally limited to documentation for public sharing.
 
   ## Contact
-  If you want a walkthrough or demo access, reach out at: [email or LinkedIn]
+  If you want a walkthrough or demo access, reach out at: founder@taimarking.com
