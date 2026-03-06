@@ -61,7 +61,7 @@
   - Apple App Store + Google Play verification
 
   ## Screenshots
-  - Screenshots: Please see Screenshots folder :)
+  - - [Screenshots for both desktop and mobile](UI_EXAMPLES)
 
   ## Status
   Active development. This repo is intentionally limited to documentation for public sharing.
