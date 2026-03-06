@@ -26,11 +26,9 @@
   - Payments: Stripe + App Store / Play Store verification
 
   ## Diagrams and Docs (in this repo)
-  - System context (C4 L1): `c4-l1-context.md`
-  - Container view (C4 L2): `c4-l2-container.md`
-  - Feedback pipeline sequence: `sequence-submit-feedback.md`
-  - Data model (ERD): `erd-django-models.md`
-  - API surface map: `api-route-map.md`
+- [Product Flow](diagrams/product_flow.md)
+- [System Architecture](diagrams/system_architecture.md)
+- [AI Grading Pipeline](diagrams/ai_grading_pipeline.md)
 
   ## Feedback Flow (High Level)
   1. Teacher submits a file (text or image) via web or mobile.
